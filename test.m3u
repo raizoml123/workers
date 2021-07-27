@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/raizoml123/workers/main/guide-debug.xml" x-tvg-url="https://raw.githubusercontent.com/raizoml123/workers/main/guide-debug.xml"
+
+ #EXTINF:-1 tvg-id="duniasinema" group-title="MOVIES" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTVlNzQxYmItMmJmZC0zZjhmLWI4OGItOGVmNTE4NDlmZDdl
+http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+ 
