@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=444100,RESOLUTION=426x240,NAME="240p"
+https://cdn12jtedge.useetv.com/joss/14/outdoor/chunklist_w187284221_b444100_sleng.m3u8?enc=LlmBjrC7DXcxnlVX_lUh0A&uid=&exp=1637745820
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p"
+https://cdn12jtedge.useetv.com/joss/14/outdoor/chunklist_w187284221_b684100_sleng.m3u8?enc=LlmBjrC7DXcxnlVX_lUh0A&uid=&exp=1637745820
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=944100,RESOLUTION=960x540,NAME="540p"
+https://cdn12jtedge.useetv.com/joss/14/outdoor/chunklist_w187284221_b944100_sleng.m3u8?enc=LlmBjrC7DXcxnlVX_lUh0A&uid=&exp=1637745820
